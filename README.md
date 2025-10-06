@@ -2,6 +2,8 @@
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
+- Python IDE with Numpy and Scipy
+- Google Colab (for running the program)
 # Program
 ```
 import numpy as np
